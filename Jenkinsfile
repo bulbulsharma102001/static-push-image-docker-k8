@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "bulbulsharma102001/static-web"
+        IMAGE_NAME = "bbsharma102001/static-web"
         TAG = "551"
 
         // Jenkins credentials IDs
